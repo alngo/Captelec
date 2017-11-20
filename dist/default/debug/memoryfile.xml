@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/Capt.X.debug.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>17552</length>                 
+      <used>3208</used>                     
+      <free>14344</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>4608</length>                 
+      <used>1032</used>                     
+      <free>3576</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
